@@ -1,0 +1,5 @@
+class CustomExceptionDemo{
+public static void main(String a[]){
+  
+}
+}
