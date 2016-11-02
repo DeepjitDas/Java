@@ -1,5 +1,5 @@
 class Exc1{
-  public static void main(String srgs[])
+  public static void main(String args[])
   { int d,a;
     try
     { d=0;
